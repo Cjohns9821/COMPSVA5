@@ -60,7 +60,7 @@ def most_frequent_optimized(numbers):
 """
 Optimization Explanation:
 - Original version: Two passes (count, then find max).
-- Optimized version: One pass, updating max as we go.
+- Optimized version: One pass, updating max as I go.
 - Time: Still O(n), but fewer operations.
 - Space: Same O(n).
 """
